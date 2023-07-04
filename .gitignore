@@ -1,0 +1,7 @@
+lib/*
+bin/*
+.DS_Store
+pyenv.cfg
+keys.py
+__pycache__/
+lpenv/
